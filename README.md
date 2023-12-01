@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devvaradpatil&label=Profile%20views&color=0e75b6&style=flat" alt="devvaradpatil" /> </p>
-
+<p align="center"><img src="https://firebasestorage.googleapis.com/v0/b/devshowcase-bc64a.appspot.com/o/coding.gif?alt=media&token=442762df-4e52-4be8-a1f1-d05ee272b072"/> </p>
 
 - 🌱 I’m currently learning **Next.js, React.js and many awesome technologies...**
 
