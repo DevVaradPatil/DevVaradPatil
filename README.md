@@ -1,5 +1,6 @@
-<p align="center"><img src="https://firebasestorage.googleapis.com/v0/b/devshowcase-bc64a.appspot.com/o/coding.gif?alt=media&token=442762df-4e52-4be8-a1f1-d05ee272b072"/> </p>
-
+<p align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/devshowcase-bc64a.appspot.com/o/coding.gif?alt=media&token=442762df-4e52-4be8-a1f1-d05ee272b072" style="width: 100%;" />
+</p>
 <h1 align="center">Hey 👋, I'm Varad Patil</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
