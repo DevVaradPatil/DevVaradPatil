@@ -91,14 +91,6 @@ I’m a **full-stack developer who enjoys understanding how things work under th
 
 ---
 
-## 🏆 Consistency > Hype
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevVaradPatil&theme=github-light" />
-</p>>
-
----
-
 <p align="center">
   <i>“Still learning. Still building. Still curious.”</i>
 </p>
