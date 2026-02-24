@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=devvaradpatil&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DevVaradPatil&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -86,12 +86,12 @@ I’m a **full-stack developer who enjoys understanding how things work under th
 ## 📊 GitHub by the Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devvaradpatil&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=devvaradpatil&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevVaradPatil&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevVaradPatil&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devvaradpatil" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevVaradPatil" />
 </p>
 
 ---
@@ -99,7 +99,7 @@ I’m a **full-stack developer who enjoys understanding how things work under th
 ## 🏆 Consistency > Hype
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devvaradpatil&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DevVaradPatil&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
