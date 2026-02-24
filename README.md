@@ -91,7 +91,7 @@ I’m a **full-stack developer who enjoys understanding how things work under th
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevVaradPatil" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DevVaradPatil" alt="GitHub Streak" /></a>
 </p>
 
 ---
