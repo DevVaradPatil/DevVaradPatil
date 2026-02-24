@@ -86,11 +86,6 @@ I’m a **full-stack developer who enjoys understanding how things work under th
 ## 📊 GitHub by the Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevVaradPatil&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DevVaradPatil&show_icons=true" />
-</p>
-
-<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DevVaradPatil" alt="GitHub Streak" /></a>
 </p>
 
@@ -99,8 +94,8 @@ I’m a **full-stack developer who enjoys understanding how things work under th
 ## 🏆 Consistency > Hype
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevVaradPatil&theme=radical&no-frame=true&margin-w=15" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevVaradPatil&theme=github-light" />
+</p>>
 
 ---
 
